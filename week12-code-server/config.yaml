@@ -1,0 +1,4 @@
+bind-addr: 127.0.0.1:9000
+auth: password
+password: 15c97bc4bb5bc1429301a9be
+cert: false
