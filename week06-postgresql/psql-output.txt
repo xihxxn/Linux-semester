@@ -1,0 +1,5 @@
+ id |  name  | age
+----+--------+-----
+  1 | xihxxn | 21
+  2 | jiwoo  | 24
+  3 | minsu  | 30
