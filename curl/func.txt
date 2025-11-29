@@ -1,0 +1,8 @@
+- api test
+- server debugging
+- read http header
+- check backend response
+
+1. what is curl
+- tool for sending http requests to servers and receiving responses
+(you can immediately check whether the api is working well without a web browser.)
