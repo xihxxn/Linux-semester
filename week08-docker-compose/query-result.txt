@@ -1,0 +1,5 @@
+ id |  name   | age
+----+---------+-----
+  1 | yejin   | 22
+  2 | xihxxn  | 23
+(2 rows)
